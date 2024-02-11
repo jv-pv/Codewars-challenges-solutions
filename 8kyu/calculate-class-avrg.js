@@ -5,7 +5,7 @@
 
 // Return True if you're better, else False!
 
-// Note:
+// Notes:
 // Your points are not included in the array of your class's points. For calculating the average point you may add your point to the given array!
 
 // ! My solution
